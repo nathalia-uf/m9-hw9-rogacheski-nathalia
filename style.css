@@ -145,4 +145,12 @@ footer {
   .logo {
     padding-bottom: 10px;
   }
+
+  section.hero > .call-to-action {
+    font-size: 1.5rem;
+    }
+  
+  main > section.hero {
+    margin-bottom: 10px;
+  }
 }
