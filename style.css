@@ -153,4 +153,8 @@ footer {
   main > section.hero {
     margin-bottom: 10px;
   }
+
+  main > article {
+    padding: 5px;
+  }
 }
