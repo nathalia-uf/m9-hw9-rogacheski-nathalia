@@ -148,7 +148,7 @@ footer {
 
   section.hero > .call-to-action {
     font-size: 1.5rem;
-    }
+  }
   
   main > section.hero {
     margin-bottom: 10px;
@@ -163,5 +163,9 @@ footer {
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  main > article {
+    margin-bottom: 10px;
   }
 }
